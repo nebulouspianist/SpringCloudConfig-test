@@ -1,6 +1,9 @@
 spring:
   application:
     name: config-client
+  mvc:
+    servlet:
+      path: /config-client 
 
 user:
   role: User-Narito
