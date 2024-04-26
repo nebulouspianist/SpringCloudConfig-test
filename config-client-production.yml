@@ -3,8 +3,9 @@ spring:
     name: config-client
   mvc:
     servlet:
-      path: /config-client 
-
+      # path: /config-client 
+      path: /
+      
 user:
   role: User-Narito
 
