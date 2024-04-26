@@ -8,10 +8,10 @@ spring:
       
   
 server:
-  port: 7777
+  port: 7456
 
 user:
-  role: Keye2
+  role: Keye3
 
 eureka:
   client:
