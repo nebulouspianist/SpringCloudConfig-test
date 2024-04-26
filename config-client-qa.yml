@@ -1,10 +1,7 @@
 spring:
   application:
     name: config-client
-  mvc:
-    servlet:
-      path: /config-client #path for dispatcher servlet
-
+  
 server:
   port: 7777
 
