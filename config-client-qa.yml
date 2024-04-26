@@ -11,7 +11,7 @@ server:
   port: 7777
 
 user:
-  role: Keye
+  role: Keye2
 
 eureka:
   client:
