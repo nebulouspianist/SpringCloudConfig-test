@@ -3,7 +3,7 @@ spring:
     name: config-client
   mvc:
     servlet:
-      path: /housing-service #path for dispatcher servlet
+      path: /config-client #path for dispatcher servlet
 
 server:
   port: 7777
