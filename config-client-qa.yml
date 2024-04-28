@@ -12,6 +12,7 @@ server:
 
 user:
   role: Keye5
+  role2: superman
 
 eureka:
   client:
