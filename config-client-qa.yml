@@ -12,7 +12,7 @@ server:
 
 user:
   role: Keye5
-  role2: superman
+  role2: cool guy
 
 eureka:
   client:
